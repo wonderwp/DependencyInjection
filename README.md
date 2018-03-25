@@ -1,3 +1,3 @@
 # WonderWp DependencyInjection Component
 
-Giving WonderWp dependency injection capabilities
+Giving WonderWp dependency injection capabilities through a container
