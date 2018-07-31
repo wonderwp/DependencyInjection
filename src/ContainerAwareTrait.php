@@ -11,4 +11,12 @@ trait ContainerAwareTrait
     {
         $this->container = $container;
     }
+
+    /**
+     * @return \Pimple\Container
+     */
+    public function getContainer()
+    {
+        return $this->container;
+    }
 }
