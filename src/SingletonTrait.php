@@ -20,6 +20,7 @@ trait SingletonTrait
     }
 
     /**
+     * @codeCoverageIgnore
      * @param SingletonInterface $instance
      *
      * @return void
