@@ -16,8 +16,8 @@
     }
   ],
   "require": {
-    "php": ">=8.0",
-        "pimple/pimple": "^3.0"
+    "php": "^8.3",
+        "pimple/pimple": "^3.5"
     },
     "require-dev": {
 
